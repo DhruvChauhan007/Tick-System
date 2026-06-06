@@ -1,0 +1,6 @@
+Django
+celery
+redis
+mysqlclient
+websocket-client
+gevent
